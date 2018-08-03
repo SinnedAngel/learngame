@@ -1,4 +1,4 @@
-package arm.man.testsnake;
+package arm.man.testsnake.framework;
 
 /**
  * Created by ARM on 01/08/18.

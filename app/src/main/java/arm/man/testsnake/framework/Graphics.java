@@ -1,4 +1,4 @@
-package arm.man.testsnake;
+package arm.man.testsnake.framework;
 
 import android.graphics.Paint;
 
@@ -19,7 +19,7 @@ public interface Graphics {
 
     void drawRect(int x, int y, int width, int height, int color);
 
-    void drawImage(Image image, int x, int y, int srcX, int srcY, int scrWidth, int scrHeight);
+    void drawImage(Image image, int x, int y, int srcX, int srcY, int srcWidth, int srcHeight);
 
     void drawImage(Image image, int x, int y);
 
